@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/compose-model-1655380198782.xml" value="0.21944444444444444" />
+        <entry key="../../../../../layout/compose-model-1655384482729.xml" value="0.33" />
+        <entry key="../../../../../layout/compose-model-1655386299380.xml" value="0.33" />
+        <entry key="../../../../../layout/compose-model-1655416900316.xml" value="0.33" />
+        <entry key="../../../../../layout/compose-model-1655417467105.xml" value="0.25" />
+        <entry key="../../../../../layout/compose-model-1655509355927.xml" value="0.4713804713804714" />
+        <entry key="../../../../../layout/compose-model-1655510040587.xml" value="0.42314814814814816" />
+        <entry key="../../../../../layout/compose-model-1655561170528.xml" value="0.1814814814814815" />
+        <entry key="../../../../../layout/compose-model-1655563888406.xml" value="0.33" />
+        <entry key="../../../../../layout/compose-model-1655564324109.xml" value="0.25" />
+        <entry key="../../../../../layout/compose-model-1655914852253.xml" value="0.4713804713804714" />
+        <entry key="../../../../../layout/compose-model-1655917323875.xml" value="0.5" />
+        <entry key="../../../../../layout/compose-model-1655919832348.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1655994016042.xml" value="0.38796296296296295" />
+        <entry key="../../../../../layout/compose-model-1655994107577.xml" value="0.38796296296296295" />
+        <entry key="../../../../../layout/compose-model-1655994245987.xml" value="0.38796296296296295" />
+        <entry key="../../../../../layout/compose-model-1655994722523.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1655994747446.xml" value="0.5" />
+        <entry key="../../../../../layout/compose-model-1655994900215.xml" value="0.38796296296296295" />
+        <entry key="../../../../../layout/compose-model-1655994939771.xml" value="0.25" />
+        <entry key="../../../../../layout/compose-model-1655995353999.xml" value="0.38796296296296295" />
+        <entry key="../../../../../layout/compose-model-1656002522518.xml" value="0.38796296296296295" />
+        <entry key="../../../../../layout/compose-model-1656003082682.xml" value="0.2748316498316498" />
+        <entry key="../../../../../layout/compose-model-1656008149843.xml" value="0.5" />
+        <entry key="../../../../../layout/compose-model-1656242300485.xml" value="0.5" />
+        <entry key="../../../../../layout/compose-model-1656247437867.xml" value="0.5" />
+        <entry key="../../../../../layout/compose-model-1656247612500.xml" value="0.21296296296296297" />
+        <entry key="../../../../../layout/compose-model-1656250055893.xml" value="0.2537037037037037" />
+        <entry key="../../../../../layout/compose-model-1656250076405.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1656537951420.xml" value="2.0" />
+        <entry key="..\:/Uni2Fix_neu/gruppe6/Fix2Uni/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.102" />
+        <entry key="..\:/Uni2Fix_neu/gruppe6/Fix2Uni/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.102" />
+        <entry key="..\:/Uni2Fix_neu/gruppe6/Fix2Uni/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.102" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/gruppe6/Fix2Uni/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/gruppe6/Fix2Uni/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/gruppe6/Fix2Uni/app/src/main/res/drawable/ic_baseline_thumb_down_24_pressed.xml" value="0.1" />
+        <entry key="..\:/Users/admin/Documents/gruppe6/Fix2Uni/app/src/main/res/layout/activity_main.xml" value="0.19519927536231885" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/ic_baseline_visibility_24.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/prototypMeldung.xml" value="0.1712962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
