@@ -5,7 +5,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 object RetrofitInstance {
 
-    val baseUrl = "http://msp-ss22-6.mobile.ifi.lmu.de:80/" // TODO: add the base url
+    val baseUrl = "http://10.0.2.2:8000" // TODO: add the base url
 
     fun getInstance(): Retrofit {
         return Retrofit.Builder().baseUrl(baseUrl)
